@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-width: 100vw;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+p {
+  color: white;
+}
+
+pre {
+  color:white;
+  text-align: left;
+}
+
+.wrapper {
+  width:95%;
+  height:100%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+  row-gap: 20px;
+  grid-template-areas:
+          "main main text";
+  grid-template-rows: 450px auto;
+}
+
+.image-display {
+  height: 100%;
+  width: 100%;
+  justify-self: center;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%
+  /*display: block;*/
+  /*object-fit: cover*/
+}
