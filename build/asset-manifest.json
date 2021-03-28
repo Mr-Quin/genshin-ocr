@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5b80f2a.chunk.css",
+    "main.js": "/static/js/main.9f16987a.chunk.js",
+    "main.js.map": "/static/js/main.9f16987a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fdd808c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fdd808c0.js.map",
+    "static/js/2.876b5dcd.chunk.js": "/static/js/2.876b5dcd.chunk.js",
+    "static/js/2.876b5dcd.chunk.js.map": "/static/js/2.876b5dcd.chunk.js.map",
+    "static/js/3.bad73c17.chunk.js": "/static/js/3.bad73c17.chunk.js",
+    "static/js/3.bad73c17.chunk.js.map": "/static/js/3.bad73c17.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d5b80f2a.chunk.css.map": "/static/css/main.d5b80f2a.chunk.css.map",
+    "static/js/2.876b5dcd.chunk.js.LICENSE.txt": "/static/js/2.876b5dcd.chunk.js.LICENSE.txt",
+    "static/media/chi_sim.dc1be34a.traineddata": "/static/media/chi_sim.dc1be34a.traineddata"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdd808c0.js",
+    "static/js/2.876b5dcd.chunk.js",
+    "static/css/main.d5b80f2a.chunk.css",
+    "static/js/main.9f16987a.chunk.js"
+  ]
+}
