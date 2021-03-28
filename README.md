@@ -5,7 +5,6 @@
 
 # Demo
 粘贴(ctrl-v)一张长这样的截图到[这个网站](https://mr-quin.github.io/genshin-ocr), 进度显示在控制台里
-![截图](./doc/screenshot.png)
 <img src="./doc/screenshot.png" width="250">
 
 必须是背包节目的截图，不是人物界面
