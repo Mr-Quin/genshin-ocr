@@ -8,11 +8,11 @@
 
 <img src="./doc/screenshot.png" width="250">
 
-必须是背包节目的截图，不是人物界面
+必须是背包界面的截图，人物界面无法识别
 
-截图必须是从名字到套装名字
+截图必须是从圣遗物名字到套装名字
 
-目前，由于ocr模型来自cdn，可能存在因为网络原因无法下载的情况
+由于ocr模型来自cdn，可能存在因为网络原因无法下载的情况
 
 
 感谢 [genshin-optimizer](https://github.com/frzyc/genshin-optimizer) 提供的~~代码~~灵感
